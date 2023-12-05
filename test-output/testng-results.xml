@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="24" passed="24" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-04T19:11:02 IST" name="Suite" finished-at="2023-12-04T19:11:27 IST" duration-ms="25185">
+    <groups>
+    </groups>
+    <test started-at="2023-12-04T19:11:02 IST" name="Test" finished-at="2023-12-04T19:11:27 IST" duration-ms="25185">
+      <class name="com.QA.test.Pages_Test">
+        <test-method is-config="true" signature="Set_up()[pri:0, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:02 IST" name="Set_up" finished-at="2023-12-04T19:11:09 IST" duration-ms="6727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Set_up -->
+        <test-method is-config="true" signature="Init_Prop()[pri:0, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:09 IST" name="Init_Prop" finished-at="2023-12-04T19:11:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init_Prop -->
+        <test-method signature="Home_Page_Title_Test()[pri:1, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:09 IST" name="Home_Page_Title_Test" finished-at="2023-12-04T19:11:09 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_Page_Title_Test -->
+        <test-method signature="Home_Page_Url_Test()[pri:2, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:09 IST" name="Home_Page_Url_Test" finished-at="2023-12-04T19:11:09 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_Page_Url_Test -->
+        <test-method signature="Home_Page_Verify_Home_PAge_Logo_Test()[pri:3, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:09 IST" name="Home_Page_Verify_Home_PAge_Logo_Test" finished-at="2023-12-04T19:11:09 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_Page_Verify_Home_PAge_Logo_Test -->
+        <test-method signature="Home_Page_Verify_Home_PAge_Links_Test()[pri:4, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:09 IST" name="Home_Page_Verify_Home_PAge_Links_Test" finished-at="2023-12-04T19:11:10 IST" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_Page_Verify_Home_PAge_Links_Test -->
+        <test-method signature="Home_Page_Verify_Home_PAge_Products_Test()[pri:5, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:10 IST" name="Home_Page_Verify_Home_PAge_Products_Test" finished-at="2023-12-04T19:11:10 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_Page_Verify_Home_PAge_Products_Test -->
+        <test-method signature="Home_Page_Verify_Home_PAge_Products_Name_Test()[pri:6, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:10 IST" name="Home_Page_Verify_Home_PAge_Products_Name_Test" finished-at="2023-12-04T19:11:10 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_Page_Verify_Home_PAge_Products_Name_Test -->
+        <test-method signature="Home_Page_Verify_Home_PAge_Footer_Text_Test()[pri:7, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:10 IST" name="Home_Page_Verify_Home_PAge_Footer_Text_Test" finished-at="2023-12-04T19:11:10 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_Page_Verify_Home_PAge_Footer_Text_Test -->
+        <test-method signature="Login_Page_Url_Test()[pri:8, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:10 IST" name="Login_Page_Url_Test" finished-at="2023-12-04T19:11:10 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Page_Url_Test -->
+        <test-method signature="Login_Page_Signu_UP_Test()[pri:9, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:10 IST" name="Login_Page_Signu_UP_Test" finished-at="2023-12-04T19:11:13 IST" duration-ms="2682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Page_Signu_UP_Test -->
+        <test-method signature="Login_Page_Login_Test()[pri:10, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:13 IST" name="Login_Page_Login_Test" finished-at="2023-12-04T19:11:14 IST" duration-ms="930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Page_Login_Test -->
+        <test-method signature="Product_Page_Title_Test()[pri:11, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:14 IST" name="Product_Page_Title_Test" finished-at="2023-12-04T19:11:19 IST" duration-ms="5121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product_Page_Title_Test -->
+        <test-method signature="Product_Page_Url_Test()[pri:12, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:19 IST" name="Product_Page_Url_Test" finished-at="2023-12-04T19:11:19 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product_Page_Url_Test -->
+        <test-method signature="Product_Page_Product_Name_Test()[pri:13, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:19 IST" name="Product_Page_Product_Name_Test" finished-at="2023-12-04T19:11:20 IST" duration-ms="942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product_Page_Product_Name_Test -->
+        <test-method signature="Product_Page_Product_Description_Test()[pri:14, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:20 IST" name="Product_Page_Product_Description_Test" finished-at="2023-12-04T19:11:20 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product_Page_Product_Description_Test -->
+        <test-method signature="Product_Page_Product_Cart_Test()[pri:15, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:20 IST" name="Product_Page_Product_Cart_Test" finished-at="2023-12-04T19:11:23 IST" duration-ms="2561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product_Page_Product_Cart_Test -->
+        <test-method signature="Checkout_Page_Title_Test()[pri:16, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:23 IST" name="Checkout_Page_Title_Test" finished-at="2023-12-04T19:11:23 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout_Page_Title_Test -->
+        <test-method signature="Checkout_Page_Url_Test()[pri:17, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:23 IST" name="Checkout_Page_Url_Test" finished-at="2023-12-04T19:11:23 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout_Page_Url_Test -->
+        <test-method signature="Checkout_Page_Product_Name_Test()[pri:18, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:23 IST" name="Checkout_Page_Product_Name_Test" finished-at="2023-12-04T19:11:25 IST" duration-ms="2031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout_Page_Product_Name_Test -->
+        <test-method signature="Checkout_Page_Product_price_Test()[pri:19, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:25 IST" name="Checkout_Page_Product_price_Test" finished-at="2023-12-04T19:11:25 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout_Page_Product_price_Test -->
+        <test-method signature="Checkout_Page_Product_Total_price_Test()[pri:20, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:25 IST" name="Checkout_Page_Product_Total_price_Test" finished-at="2023-12-04T19:11:25 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout_Page_Product_Total_price_Test -->
+        <test-method signature="Checkout_Page_Product_Place_Order_Test()[pri:21, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:25 IST" name="Checkout_Page_Product_Place_Order_Test" finished-at="2023-12-04T19:11:25 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout_Page_Product_Place_Order_Test -->
+        <test-method signature="Address_Page_Send_Data_Test()[pri:22, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:25 IST" name="Address_Page_Send_Data_Test" finished-at="2023-12-04T19:11:26 IST" duration-ms="1268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Address_Page_Send_Data_Test -->
+        <test-method signature="Address_Page_Purchase_Msg_Test()[pri:23, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:26 IST" name="Address_Page_Purchase_Msg_Test" finished-at="2023-12-04T19:11:27 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Address_Page_Purchase_Msg_Test -->
+        <test-method signature="Address_Page_Order_Msg_Test()[pri:24, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:27 IST" name="Address_Page_Order_Msg_Test" finished-at="2023-12-04T19:11:27 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Address_Page_Order_Msg_Test -->
+        <test-method is-config="true" signature="Tear_Down()[pri:0, instance:com.QA.test.Pages_Test@3b0fe47a]" started-at="2023-12-04T19:11:27 IST" name="Tear_Down" finished-at="2023-12-04T19:11:27 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tear_Down -->
+      </class> <!-- com.QA.test.Pages_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
